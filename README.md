@@ -12,5 +12,7 @@ No Save Feature: The app focuses on quick text-to-speech conversion and does not
 Technologies Used:
 
 HTML: For creating the structure of the app.
+
 CSS: For styling and making the app look clean and user-friendly.
+
 JavaScript: For implementing the functionality, including handling text input and using the Web Speech API.
